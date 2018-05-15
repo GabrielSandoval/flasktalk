@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/gabriel/Projects/experiments/pytalk/iris_model"
+all_model_checkpoint_paths: "/Users/gabriel/Projects/experiments/pytalk/iris_model"
